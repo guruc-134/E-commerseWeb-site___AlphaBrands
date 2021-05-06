@@ -1,5 +1,5 @@
 # Project update
-progress : ![30%](https://progress-bar.dev/30) 
+progress : ![~50%](https://progress-bar.dev/50) 
 
-currently paused :- exams , updation of other projects
+currently paused :- exams , updation of other project
 
